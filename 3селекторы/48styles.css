@@ -1,0 +1,65 @@
+/* Task 1*/
+/*
+li:first-child {
+	color: red;
+}*/
+
+/* Task 2*/
+/*
+li:last-child {
+	color: green;
+}*/
+
+/* Task 3*/
+/*
+li:first-child {
+	color: red;
+}
+li:last-child {
+	color: green;
+}*/
+
+/* Task 4*/
+/*
+li:nth-child(3) {
+    color: red;
+}*/
+
+/* Task 5*/
+/*
+li:nth-child(odd) {
+    color: red;
+}
+li:nth-child(even) {
+    color: green;
+}*/
+
+/* Task 6*/
+/*
+li:nth-child(3n) {
+    color: red;
+}*/
+
+/* Task 7*/
+/*
+li:nth-last-child(2) {
+    color: red;
+}*/
+
+/* Task 8*/
+/*
+li:only-child {
+    color: red;
+}*/
+
+/* Task 9*/
+/*
+li {
+    border: 1px solid red;
+    width: 100px;
+    
+}
+li:empty {
+    border: 1px solid blue;
+    width: 100px;
+}*/

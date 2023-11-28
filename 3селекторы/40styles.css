@@ -1,0 +1,101 @@
+    /*Task 1*/
+/*
+div p {
+    color:red;
+}*/
+
+    /*Task 2*/
+/*
+div h2 {
+    color:yellow;
+}*/
+
+    /*Task 3*/
+/*
+#block p {
+    color:blueviolet;
+}*/
+
+    /*Task 4*/
+/*
+#block h2 {
+    color:aquamarine;
+}*/
+
+    /*Task 5*/
+/*
+.bbb {
+    color:orange;
+}*/
+
+    /*Task 6*/
+/*
+#block .bbb {
+    color:red;
+}*/
+
+    /*Task 7*/
+/*
+p.bbb {
+    color:red;
+}*/
+
+    /*Task 8*/
+/*
+h2.bbb {
+    color:red;
+}*/
+
+    /*Task 9*/
+/*
+#block p.bbb {
+    color:red;
+}*/
+
+    /*Task 10*/
+/*
+.bbb, .xxx {
+    color:red;
+}*/
+
+    /*Task 11*/
+/*
+p.bbb, h2.xxx {
+    color:red;
+}*/
+
+    /*Task 12*/
+/*
+#block p.bbb, #block p.xxx {
+    color:red;
+}*/
+
+    /*Task 13*/
+/*
+.fff {
+    color:red;
+}*/
+
+    /*Task 14*/
+/*
+.fff p {
+    color:red;
+}*/
+
+    /*Task 15*/
+/*
+p.fff {
+    color:red;
+}*/
+
+    /*Task 16*/
+/*
+.fff .bbb {
+    color:red;
+}*/
+
+    /*Task 17*/
+/*
+.fff h2.bbb {
+    color:aquamarine;
+}*/
